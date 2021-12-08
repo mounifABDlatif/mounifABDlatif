@@ -1,5 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Mounif</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
+<h6 align="center">I'm currently looking for an apprenticeship opportunity as a #Frontend or/and #Fullstack developper</h6>
+<h6 align="center">As a dev, I'm always on the look for new challenges 🐱‍🏍🐱‍💻. I use the #hashtags to acquire and share knowledges</h6>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mounifabdlatif&show_icons=true&locale=en" alt="mounifABDlatif" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mounifabdlatif&" alt="mounifabdlatif" /></p>
