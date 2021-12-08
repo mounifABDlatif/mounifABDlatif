@@ -8,7 +8,6 @@
 I give exra attention to the ergonomics and usability of my websites.</h6>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mounifabdlatif&show_icons=true&locale=en" alt="mounifABDlatif" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mounifabdlatif&" alt="mounifabdlatif" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mounifabdlatif&" alt="mounifabdlatif" /></p>
 
 
 - 🔭 I’m currently working on **a react project**
